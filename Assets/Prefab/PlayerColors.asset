@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 788fa180edace8e4d88e885998f5b278, type: 3}
+  m_Name: PlayerColors
+  m_EditorClassIdentifier: 
+  datas:
+  - name: Blue
+    color: {fileID: 2100000, guid: 1a2cd8e6cd25d7d4095312372d52ef3f, type: 2}
+  - name: Greed
+    color: {fileID: 2100000, guid: 6641cdabdfd0c2e4ea1a032de9d48e7c, type: 2}
+  - name: Red
+    color: {fileID: 2100000, guid: 350bf84f95d355e4b9af6a8eab3555cc, type: 2}
